@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Today I Learned(TIL)"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "하루하루 무엇을 배웠는지 남기는 블로그입니다."
+name                     : "김주현"
+description              : "주니어의 조금 더 나은 개발자가 되기 위한 블로그"
 url                      : "https://KJH-Sun.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
